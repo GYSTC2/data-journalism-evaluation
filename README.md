@@ -10,12 +10,6 @@ With the development of data journalism, some competitions related to data journ
 However, those data journalism works are often subjectively evaluated by industry experts based on several key indicators and their personal experience, and it is unknown whether the excellent works evaluated can be favored by the audiences.
 
 
-With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism. 
-
-
-With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism.
-
-
 At present, academic research on data journalism mostly focuses on the historical analysis, current situation description and trend prediction of data journalism, and rarely involves the research on user experience of data journalism works. 
 
 
@@ -39,8 +33,7 @@ In the past eye movement experiments, the red-colored area in the heat map is of
 It is of great significance for judging the usability of data journalism works and optimizing the data visualization works.
 
 
-![Heatmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/heatmap.png)
-
+![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/heatmap.png)
 ## Data Analysis
 In this experiment, the data exported by the eye tracker is shown in figure below. The second column of data is the real-time time record, the fourth column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
 
