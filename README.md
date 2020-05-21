@@ -13,7 +13,7 @@
   Eye movement experiment is widely used in the communication effect research. 
   The experimental results can reflect the time distribution of different parts of the whole visual threshold in the reading materials of the subjects, and the skin electrical sensor can be used as a supplement to the eye movement experiment to test the attention of the subjects in reading different parts of the content.
   In the past eye movement experiments, the red-colored area in the heat map is often regarded as the content that attract readers most, which is not accurate enough. In this experiment, the skin electrical sensor was added to measure the attention degree of the subjects, which can judge the attention distribution of readers to different visual elements in the works more scientifically. It is of great significance for judging the usability of data journalism works and optimizing the data visualization works.
-![Bolzano](GYSTC2/data-journalism-evaluation/Bolzano-1.PNG)
+![Bolzano-1.PNG]("GYSTC2/data-journalism-evaluation/Bolzano-1.PNG")
 
 # Data Analysis
   In this experiment, the data exported by the eye tracker is shown in figure(b) below. The second column of data is the real-time time record, the fourth column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
