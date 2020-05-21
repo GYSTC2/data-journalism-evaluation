@@ -1,7 +1,7 @@
 # data-journalism-evaluation
 	Relation Evaluation of Visual Elements in Data Journalism -- From the perspective of User Experience
 ## Introduction
-Data journalism refers to a form of news report based on data mining and analysis, which makes data analysis results into visual charts and presents facts and narrates through visual elements.  
+<br>Data journalism refers to a form of news report based on data mining and analysis, which makes data analysis results into visual charts and presents facts and narrates through visual elements.  
 <br> With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism. 
 <br> However, those data journalism works are often subjectively evaluated by industry experts based on several key indicators and their personal experience, and it is unknown whether the excellent works evaluated can be favored by the audiences.
 <br> With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism. 
@@ -32,7 +32,7 @@ Data journalism refers to a form of news report based on data mining and analysi
 	2. Overly saturated colors and messy color schemes are not welcomed.
 	3. Creative graphics attract the attention of readers most.
 	4. The works with clear logic and no redundant words are more favorable to readers.
-<br> ![emotional curve](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/reader's emotional curve.png)
+<br> ![emotional curve](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/reader's%20emotional%20curve.png)
 
 
 
