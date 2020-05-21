@@ -33,12 +33,12 @@ In the past eye movement experiments, the red-colored area in the heat map is of
 It is of great significance for judging the usability of data journalism works and optimizing the data visualization works.
 
 
-![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/Bolzano-1.png)
+![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/bolzano-1.PNG)
 ## Data Analysis
-In this experiment, the data exported by the eye tracker is shown in figure below. The second column of data is the real-time time record, the fourth column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
+In this experiment, the data exported from the eye tracker is shown in figure below. The first column of data is the real-time time record, the third column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
 
 
-![eyetrack data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/eye%20track.png)
+![eyetrack data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/eye.png)
 
 
 The Data exported from the sensor is shown in the figure below. The Data in the second column, ADC Data, can be used to represent the attention value of the subjects. The larger the number is, the more focused the user is at the moment. The sixth column is the real-time time record.
@@ -52,6 +52,9 @@ First we need to analyze the users sensor data to find out everyone‘s emotiona
 
 Finally we need find commonness in all sample data to find out the data journalism content that is most likely to arouse readers' emotion, that is, the picture area and its content that can largely arouse readers' emotion.
 
+![example](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/one-person-combined.png)
+
+
 # Preliminary Conclusions
 1. Readers tend to spend more time reading the text than the visual section of the data.
 
@@ -64,8 +67,6 @@ Finally we need find commonness in all sample data to find out the data journali
 
 4. The works with clear logic and no redundant words are more favorable to readers.
 
-
-![emotional curve](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/reader's%20emotional%20curve.png)
 
 
 
