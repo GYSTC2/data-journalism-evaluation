@@ -33,7 +33,7 @@ In the past eye movement experiments, the red-colored area in the heat map is of
 It is of great significance for judging the usability of data journalism works and optimizing the data visualization works.
 
 
-![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/heatmap.png)
+![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/Bolzano-1.png)
 ## Data Analysis
 In this experiment, the data exported by the eye tracker is shown in figure below. The second column of data is the real-time time record, the fourth column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
 
@@ -44,7 +44,7 @@ In this experiment, the data exported by the eye tracker is shown in figure belo
 The Data exported from the sensor is shown in the figure below. The Data in the second column, ADC Data, can be used to represent the attention value of the subjects. The larger the number is, the more focused the user is at the moment. The sixth column is the real-time time record.
 
 
-![sensor data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/sensor.png)
+![sensor data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/Sensor.png)
 
 
 First we need to analyze the users sensor data to find out everyone‘s emotional arousal time, then combine with the eye movement experiment data to draw the content was being watched. 
