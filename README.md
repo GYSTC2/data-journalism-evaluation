@@ -23,15 +23,15 @@
 <br> ![eyetrack data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/eye%20track.png)
 
 <br> The Data exported from the sensor is shown in the figure below. The Data in the second column, ADC Data, can be used to represent the attention value of the subjects. The larger the number is, the more focused the user is at the moment. The sixth column is the real-time time record.
-<br> ![sensor data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/sensor.png)
+<br> ![sensor data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/sensor.png)
 <br> First we need to analyze the users sensor data to find out everyone‘s emotional arousal time, then combine with the eye movement experiment data to draw the content was being watched. 
 <br> Finally we need find commonness in all sample data to find out the data journalism content that is most likely to arouse readers' emotion, that is, the picture area and its content that can largely arouse readers' emotion.
 
 # Preliminary Conclusions
-	1. Readers tend to spend more time reading the text than the visual section of the data.
-	2. Overly saturated colors and messy color schemes are not welcomed.
-	3. Creative graphics attract the attention of readers most.
-	4. The works with clear logic and no redundant words are more favorable to readers.
+<br>1. Readers tend to spend more time reading the text than the visual section of the data.
+<br>2. Overly saturated colors and messy color schemes are not welcomed.
+<br>3. Creative graphics attract the attention of readers most.
+<br>4. The works with clear logic and no redundant words are more favorable to readers.
 <br> ![emotional curve](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/reader's%20emotional%20curve.png)
 
 
