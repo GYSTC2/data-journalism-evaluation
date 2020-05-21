@@ -1,8 +1,8 @@
-# data-journalism-evaluation
-  Relation Evaluation of Visual Elements in Data Journalism -- From the perspective of User Experience
+## data-journalism-evaluation
+	Relation Evaluation of Visual Elements in Data Journalism -- From the perspective of User Experience
 # Introduction
-  Data journalism refers to a form of news report based on data mining and analysis, which makes data analysis results into visual charts and presents facts and narrates through visual elements. 
-  With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism. 
+	Data journalism refers to a form of news report based on data mining and analysis, which makes data analysis results into visual charts and presents facts and narrates through visual elements. 
+		With the development of data journalism, some competitions related to data journalism gradually appear. The winning works often reflect the evaluation criterion of data journalism works in the current industry, and the evaluation criterion of these competitions have also become an important indicator to measure the quality of data journalism. 
   However, those data journalism works are often subjectively evaluated by industry experts based on several key indicators and their personal experience, and it is unknown whether the excellent works evaluated can be favored by the audiences.
   At present, academic research on data journalism mostly focuses on the historical analysis, current situation description and trend prediction of data journalism, and rarely involves the research on user experience of data journalism works. 
   User experience is crucial to the communication effect of data journalism, and is the focus of data journalism industry at home and abroad. 
@@ -17,7 +17,7 @@
 
 # Data Analysis
   In this experiment, the data exported by the eye tracker is shown in figure below. The second column of data is the real-time time record, the fourth column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
-![eyetrack data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/eye track.png)
+![eyetrack data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/eye%20track.png)
 
 The Data exported from the sensor is shown in the figure below. The Data in the second column, ADC Data, can be used to represent the attention value of the subjects. The larger the number is, the more focused the user is at the moment. The sixth column is the real-time time record.
 ![sensor data](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/sensor.png)
