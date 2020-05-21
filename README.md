@@ -33,7 +33,7 @@ In the past eye movement experiments, the red-colored area in the heat map is of
 It is of great significance for judging the usability of data journalism works and optimizing the data visualization works.
 
 
-![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/bolzano-1.PNG)
+![heapmap](https://github.com/GYSTC2/data-journalism-evaluation/blob/master/pictures/disease-1.PNG)
 ## Data Analysis
 In this experiment, the data exported from the eye tracker is shown in figure below. The first column of data is the real-time time record, the third column of data is the screen content record at the moment of reading, and the rightmost columns of data are the coordinates of eye fixation points.
 
